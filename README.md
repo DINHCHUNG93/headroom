@@ -1,3 +1,43 @@
+
+
+🚀 Nguồn mở ⭐ 6.5k giúp AI Agents giảm tới 95% token nhưng vẫn giữ nguyên chất lượng trả lời
+
+👉 Compress context trước khi gửi tới LLM
+👉 Giảm latency & chi phí
+👉 Tăng cache hit cho AI Agents
+
+🔥 Công cụ Headroom nổi bật với: Reversible Compression (CCR)
+
+* nén logs
+* JSON
+* RAG chunks
+* coding context
+* terminal outputs
+
+… giảm 70–95% token nhưng vẫn giữ semantic quan trọng.
+
+Thậm chí model có thể retrieve lại context gốc nếu cần.
+
+Các tính năng nổi bật:
+
+* JSON-aware compression
+* AST-aware code compression
+* Smart cache optimization
+* Shared memory cho multi-agent
+* Hỗ trợ Claude Code / Cursor / Codex / Aider
+* OpenAI-compatible proxy
+* LangChain / LangGraph / MCP support
+
+Rất phù hợp cho:
+
+* Coding Agents
+* RAG systems
+* AI IDE
+* Multi-agent workflows
+
+
+
+
 ```
   ██╗  ██╗███████╗ █████╗ ██████╗ ██████╗  ██████╗  ██████╗ ███╗   ███╗
   ██║  ██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║
